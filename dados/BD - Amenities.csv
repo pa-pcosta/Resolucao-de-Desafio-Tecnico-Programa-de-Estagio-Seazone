@@ -1,0 +1,7 @@
+local,iten,valor,quantidade por banheiro/lavabo,total
+Banheiro,Sabonete,"R$ 0,50",1,"R$ 0,50"
+Banheiro,Papel Higiênico,"R$ 2,00",2,"R$ 4,00"
+Banheiro,shampoo,"R$ 1,50",1,"R$ 1,50"
+Banheiro,condicionador,"R$ 1,50",1,"R$ 1,50"
+Lavabo,Sabonete,"R$ 0,50",1,"R$ 0,50"
+Lavabo,Papel Higiênico,"R$ 2,00",2,"R$ 4,00"
